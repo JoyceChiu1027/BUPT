@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">靖远二电移动应用</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name01">审批平台</string>
+    <string name="app_name02">审批平台</string>
+    <string name="title_activity_apply_list">ApplyListActivity</string>
+    <string name="title_activity_apply_list_item">ApplyListItemActivity</string>
+    <string name="title_activity_apply">ApplyActivity</string>
+    <string name="content_description">content_description</string>
+    <string name="track_state">行踪情况</string>
+    <string name="leave_date">离开时间</string>
+    <string name="back_date">回厂时间</string>
+    <string name="cause">事由</string>
+</resources>
